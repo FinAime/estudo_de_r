@@ -1,1 +1,1 @@
-# estudo_de_r
+# Estudos em Python e R
